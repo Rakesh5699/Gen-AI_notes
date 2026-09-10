@@ -17,3 +17,23 @@ nltk
 pyyaml 
 python-dotenv
 sentence-transformers
+
+## Rag
+langchain
+langchain-community
+pypdf 
+python-docx 
+pandas 
+openpyxl 
+beautifulsoup4
+jq
+unstructured
+docx2txt
+markdown
+pymupdf
+pdfplumber
+tabulate
+pytesseract
+faiss
+
+llama_cloud

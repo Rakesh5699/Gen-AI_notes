@@ -1,0 +1,128 @@
+[
+  {
+    "page_number": 20,
+    "item_index": 15,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 10.959433078765871,
+          "w": 12.815518494813318,
+          "x": 356.39503934611446,
+          "y": 211.83667800696,
+          "confidence": 0.5,
+          "label": "image"
+        }
+      ],
+      "type": "image"
+    }
+  },
+  {
+    "page_number": 20,
+    "item_index": 16,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 10.822086719637344,
+          "w": 13.025666015127436,
+          "x": 356.23976121006837,
+          "y": 235.05931351101916,
+          "confidence": 0.5,
+          "label": "image"
+        }
+      ],
+      "type": "image"
+    }
+  },
+  {
+    "page_number": 20,
+    "item_index": 17,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 10.980412914027315,
+          "w": 12.720293085678783,
+          "x": 356.25661941495144,
+          "y": 258.7858141434711,
+          "confidence": 0.5,
+          "label": "image"
+        }
+      ],
+      "type": "image"
+    }
+  },
+  {
+    "page_number": 21,
+    "item_index": 10,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 307.5903740967875,
+          "w": 513.2566310338974,
+          "x": 40.61181665532485,
+          "y": 161.19032589352648,
+          "confidence": 0.5,
+          "label": "chart"
+        }
+      ],
+      "type": "image"
+    }
+  },
+  {
+    "page_number": 22,
+    "item_index": 22,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 66.51452556610109,
+          "w": 114.15766686995131,
+          "x": 371.19098965205313,
+          "y": 642.6763757191534,
+          "confidence": 0.5,
+          "label": "image"
+        }
+      ],
+      "type": "image"
+    }
+  },
+  {
+    "page_number": 23,
+    "item_index": 21,
+    "markdown": "",
+    "raw_item": {
+      "caption": "",
+      "md": "",
+      "url": "",
+      "bbox": [
+        {
+          "h": 67.11278249906461,
+          "w": 114.99213567037165,
+          "x": 376.12173073063724,
+          "y": 641.999365860483,
+          "confidence": 0.5,
+          "label": "image"
+        }
+      ],
+      "type": "image"
+    }
+  }
+]
