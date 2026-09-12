@@ -34,6 +34,13 @@ pymupdf
 pdfplumber
 tabulate
 pytesseract
-faiss
+faiss-cpu
 
 llama_cloud
+
+langchain_chroma
+
+pinecone
+langchain_pinecone
+langchain_qdrant
+qdrant_client
