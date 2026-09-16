@@ -44,3 +44,4 @@ pinecone
 langchain_pinecone
 langchain_qdrant
 qdrant_client
+matplotlib
